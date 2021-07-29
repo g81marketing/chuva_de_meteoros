@@ -9,8 +9,6 @@ let meteoros = [
 ];
 
 
-var data_atual = new Date();
-var mes_data = data_atual.getMonth();
 
 
 function adicionar() {
